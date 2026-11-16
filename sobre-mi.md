@@ -7,3 +7,9 @@ También me interesa aprender a trabajar en equipo y compartir ideas.
 En mi tiempo libre me gusta el deporte y salir con los amigos.
 Espero que esta asignatura me ayude a mejorar mis conocimientos
 y a desarrollar nuevas habilidades.
+
+
+## Mis proyectos
+
+1. **Mi portafolio inicial:** Mi primer repositorio creado con GitHub.
+2. **Mis primeros scripts:** Pequeños programas para aprender a utilizar PowerShell.
