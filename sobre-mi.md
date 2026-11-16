@@ -1,4 +1,3 @@
-
 # Sobre mí
 
 Me considero una persona curiosa y con ganas de aprender cosas nuevas.
